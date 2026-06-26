@@ -48,8 +48,8 @@ lib/
 
 2. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/Student_Grade_Tracker.git
-   cd Student_Grade_Tracker
+   git clone https://github.com/tem-mahadi/student_grade_tracker.git
+   cd student_grade_tracker
    ```
 
 3. **Install dependencies**
